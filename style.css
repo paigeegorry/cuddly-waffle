@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    font-size: 1.5em;
+}
+h1, h3, h5 {
+    color: #23c2df;
+}
+h2, h4, h6 {
+    color: #ffa319;
+}
+.large-text {
+    font-size: 2em;
+    color: #0e0468;
+}
+#main-heading {
+    font-weight: bold;
+}
+div ul{
+    color: #2b3233;
+    font-style: italic;
+}
+div {
+    color: #f171eb;
+}
+.testing {
+    font-family: fantasy;
+}
+ul {
+    font-size: 1.5em;
+}
+#bro {
+    color:pink;
+}
